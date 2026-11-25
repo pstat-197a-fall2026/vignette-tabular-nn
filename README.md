@@ -7,7 +7,7 @@ Vignette on building and tuning a neural network for yes/no prediction from a ta
 1. Emma Nguyen - EDA / preprocessing
 2. Praveen
 3. Varun
-4. Iris 
+4. Iris Li
 
 
 ## Vignette abstract: a brief description in a few sentences of your vignette topic, example data, and outcomes.
